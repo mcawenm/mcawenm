@@ -1,0 +1,1 @@
+I'm just an amateur guy, age 53, learning C#.   I spent a year reading Bjarne Stroustrups book, but I felt like ok, I actually need to make something useful, so I think C# is where I need to be.   C# has windows and forms and all that integrated.  Live in LAS vEGAS
